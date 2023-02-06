@@ -1,0 +1,3 @@
+primeiros comandos no git bash
+ mais alguns comandos e o vitor é tonto
+
